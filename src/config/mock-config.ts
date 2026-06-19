@@ -205,7 +205,7 @@ export const mockAppConfig: AppConfig = {
   },
   branding: {
     appName: "Zuper Store",
-    logoUrl: undefined,
+    logoUrl: 'https://zuperapps.com/cdn/shop/files/Frame_2121452720.svg?v=1754553838&width=340',
   },
   settings: {
     locale: "en-US",
