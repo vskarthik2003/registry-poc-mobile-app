@@ -17,7 +17,7 @@ export default function PreviewScreen() {
       style={{ backgroundColor: theme.colors.background }}
       edges={["top"]}
     >
-      <PreviewBanner />
+      {/* <PreviewBanner /> */}
       <View className="flex-1">
         <PageRenderer pageId={activePageId} />
       </View>
